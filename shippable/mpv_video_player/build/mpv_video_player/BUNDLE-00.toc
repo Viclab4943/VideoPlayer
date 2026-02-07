@@ -1,0 +1,3 @@
+([('mpv_video_player',
+   '/Users/victor/Desktop/workspace/video_player_project/shippable/mpv_video_player/dist/mpv_video_player',
+   'EXECUTABLE')],)
