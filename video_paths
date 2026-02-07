@@ -1,0 +1,5 @@
+# Video paths
+DEFAULT_VIDEO = "/Users/victor/Desktop/Videor/zwift.mp4"
+VIDEO_1 = "/Users/victor/Desktop/Videor/zwift.mp4"
+VIDEO_2 = "/Users/victor/Desktop/Videor/IMG_1447.MOV"
+VIDEO_3 = "/Users/victor/Desktop/Videor/zwift.mp4"
